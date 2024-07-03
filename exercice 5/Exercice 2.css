@@ -1,0 +1,127 @@
+h1{
+    font: size 40px; ;
+}
+h2#w{background-color: deepskyblue;color: white; padding: 40;text-align: center;}
+#h13{
+    color: white;
+    border:4px solid white ;
+    text-align: center;
+    background: crimson;
+    text-align: center;
+    height: 150;
+    font-size: 66;
+
+}
+
+a{
+    color: #ff0000;
+}
+#h14{
+    color: #ff0000;
+    border:2px solid #ffffff ;
+    background:#f5f5f5;
+    font-size: 28;
+    height: 100;
+    text-align: center;
+
+}
+
+html{ 
+    background: whitesmoke;
+}
+.alignLeft1{
+    float: left;
+
+}
+
+nav#m li{
+    display: inline;
+    padding: 170;
+    width: 180;
+    height: 150;
+    
+}
+
+div{
+    border: 2px solid green;
+    width: 1100;
+    
+}
+.alignright2{
+    float: right;
+    border-style: dashed;
+    width: 1260;
+    height: auto;
+
+
+}
+.alignright3{
+    float: right;
+    width: 1275;
+    height: 480;
+    border-style: dashed;
+
+}
+.alignright4{
+    float: right;
+    border-style: dashed;
+    width: 1275;
+    height: 530;
+}
+p{
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+
+h2{color: #ff0000;
+   text-align: center;
+}
+h2#t{
+    text-align: left;
+    color: black;
+}
+h2#tt{
+    color: black;
+    text-align: left;
+}
+h2#ttt{color: black; text-align: left;}
+td{
+    border: 4px solid black;
+    padding: 1;
+    text-align: center;
+}
+table{border-collapse: collapse;}
+
+nav li{
+    display: inline;
+    margin: 0px;
+    padding: 170px;
+    
+
+}
+nav li a{
+    text-decoration: none;
+    color: white;
+    background-color: deepskyblue;
+    padding: 3;
+}
+nav#m li{
+    display: inline;
+    margin: 0px;
+    padding: 170px;
+    
+
+}
+nav#m li a{
+    text-decoration: none;
+    color: white;
+    background-color: deepskyblue;
+    padding: 3;
+}
+h2#o{
+    background-color: deepskyblue;
+    color: white;
+    padding: 35;
+}
